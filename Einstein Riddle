@@ -21,7 +21,7 @@ class EinsteinRiddleSolver
         this.houses[2].Drink = Drink.Milk;
 
         // Tipp 9: "Der Norweger wohnt im ersten Haus"
-        this.houses[0].Nationality = Nationality.Norwegian;
+        this.houses[0].Nationality = Nationality.Norwegian; 
 
         // Tipp 13: "Neben dem blauen Haus wohnt der Norweger"
         this.houses[1].HouseColor = HouseColor.Blue;
