@@ -654,4 +654,5 @@ class EinsteinRiddleSolver
                 Console.WriteLine("The {0} is the owner of the Fish.",
                     this.houses[n].Nationality);
     }
+    
 }
